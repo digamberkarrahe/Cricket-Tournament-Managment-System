@@ -1,0 +1,125 @@
+ body{
+            margin: 0;
+            padding: 0;
+            background-image: url(back41.jpg);
+            background-size: cover;
+            background-position:bottom;
+           //background-size: contain;
+            font-family: cursive;
+            border: 5px solid #93F28C;
+            border-style:groove
+            }
+       .login-box{
+          
+           //margin-top: 0;
+            width: 300px;
+            height: 350px;
+            //background: rgba(0,0,0,);
+           //background-color: #A8FCF0;
+           background-image: url(i4.jpg);
+           background-size:cover;
+           background-position:bottom;
+           margin-left: calc(50% - 150px);
+           margin-top: 110px;
+            //position:absolute;
+            //box-sizing:border-box;
+            //padding:70 10 10 10;
+           border-radius: 15px;
+           //color:#93F28C;
+           color:white;
+           border:3px solid #7073CE;
+           border-style:outset;
+           
+           
+           }
+        #avatar{
+            width: 100px;
+            height: 100px;
+            //position:relative;
+            //padding: 0 0 0 0;
+            margin-top:  -52px;
+            margin-left: calc(50% - 52px);
+            //top:-50px;
+            //left:50 ;
+            border-radius: 100px;
+            border:2px solid #7073CE;
+            
+            }
+        .login-box input{
+        width: 100%;
+        //margin-bottom: 20px;
+            
+            
+    }
+        .login-box input[type="text"], input[type="password"],input[type="email"],input[type="number"],input[type="date"],input[type="button"]
+        {
+            border: none;
+            border: 2px solid #7073CE;
+            border-radius: 5PX;
+            //background: transparent;
+            background-color: #C8C8C8;
+            height: 35px;
+            color:#000;
+            font-size: 15px;
+            margin-top: 5px;
+            margin-bottom: 5px;
+            padding: 3 3 3 3;
+            
+                        
+        }
+        .login-box input[type="submit"]
+        {
+            border: 2px solid #7073CE;
+            //outline: none;
+            height: 35px;
+            width: 137px;
+            margin: 20px 0 20px 0;
+            position:relative;
+            //margin-left: 5;
+            background: #C8C8C8;
+            font-size: 15px;
+            border-radius: 5px;
+            //line-height: 50px;
+            
+        }
+        .login-box input[type="submit"]:hover
+        {
+                background-color:#93F28C; 
+            }
+
+        .head
+        {
+            margin: 0;
+            //padding: 0 0 20px ;
+            text-align: center;
+            font-size:26px;
+            //font-family: sans-serif
+        }
+        .form1
+        {
+            font-size: 20px;
+            margin: 10 10 10 10;
+            line-height: 40px;
+            
+            
+        }
+    
+    
+        .heading
+        {
+            font-size: 60px;
+            color:#93F28C;
+		
+            font-family:cursive;
+            text-align: center;
+            
+            
+            //background-color: aqua;
+        }
+		.home_logo
+		{
+			height:50px;
+			width:50px;
+			margin-left:1200px;
+		}
+		
